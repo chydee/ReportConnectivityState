@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RepoortConnectivityState</string>
+    <string name="connectivity_state">Connectivity state:</string>
+    <string name="network_connectivity_state">Network Connectivity State:</string>
+</resources>
